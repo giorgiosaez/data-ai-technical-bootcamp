@@ -85,3 +85,4 @@ Challenges
     * Hide specific columns from view -> use Column Level Security
     * Hide certain rows from view -> use Row Level Security
     * Hide details of specific fields from view -> use Dynamic Data Masking
+    
